@@ -1,0 +1,21 @@
+.tweet {
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin: 20px 20%;
+    border: solid lightblue;
+  }
+  
+  .tweet .author {
+    font-weight: bold;
+  }
+  
+  .tweet .content {
+    margin-top: 5px;
+  }
+  
+  .tweet .date {
+    color: gray;
+  }
+  
